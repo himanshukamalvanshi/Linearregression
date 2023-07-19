@@ -1,0 +1,12 @@
+﻿Flask
+Flask-Cors
+gunicorn
+scikit-learn
+pickle5
+numpy
+pandas
+click
+itsdangerous
+jinja2
+MarkupSafe
+Werkzeug
